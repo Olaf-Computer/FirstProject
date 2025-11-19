@@ -2,7 +2,9 @@
 h1{background-color:whitesmoke;
     text-align: center;
     font-size:3rem;
-    color:plum
+    color:plum;
+    font-family:"Playfair Dislpay", serif;
+    font-weight: 400;
  }
 
  .section{
@@ -16,10 +18,11 @@ h1{background-color:whitesmoke;
     font-style: italic;
     color: cadetblue;
     text-decoration: wavy;
-    text-align: right;
+    text-align:left;
+    font-family:"Fauna One",serif;
  }
- .unorderedList{
- font-family: sans-serif;
+ ol{
+ font-family:"Fauna One", serif;
  font-family: cursive;
  font-size: 2rem;
  }
