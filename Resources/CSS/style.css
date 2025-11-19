@@ -6,6 +6,9 @@ h1{background-color:whitesmoke;
     font-family:"Playfair Dislpay", serif;
     font-weight: 400;
  }
+ .picture{
+   text-align: center;
+ }
 
  .section{
  color:khaki;
