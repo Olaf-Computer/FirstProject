@@ -21,13 +21,13 @@ h1{background-color:whitesmoke;
     text-align:left;
     font-family:"Fauna One",serif;
  }
- ol{
+ li{
  font-family:"Fauna One", serif;
  font-family: cursive;
  font-size: 2rem;
  }
  a{
- font-family: papyrus;
+ font-family:"Playfair Display", serif;
  font-size: 16px;
  font-weight:900;
 
