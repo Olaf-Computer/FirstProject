@@ -1,8 +1,8 @@
-*{background-color: snow;}
-h1{background-color:whitesmoke;
+*{background-color: #062f4f;}
+h1{background-color:black;
     text-align: center;
     font-size:3rem;
-    color:plum;
+    color:#0e0b16;
     font-family:"Playfair Dislpay", serif;
     font-weight: 400;
  }
@@ -19,7 +19,7 @@ h1{background-color:whitesmoke;
     font-size:2rem;
     font-weight: 400;
     font-style: italic;
-    color: cadetblue;
+    color: slategray;
     text-decoration: wavy;
     text-align:left;
     font-family:"Fauna One",serif;
@@ -27,10 +27,12 @@ h1{background-color:whitesmoke;
  li{
  font-family:"Fauna One" serif;
  font-size: 2rem;
+ color:#b82601
  }
  a{
  font-family:"Playfair Display", serif;
  font-size: 16px;
  font-weight:900;
+ color:#813772
 
  }
