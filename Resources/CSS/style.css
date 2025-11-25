@@ -6,8 +6,10 @@ h1{background-color:#76323f;
     font-family:"Playfair Dislpay", serif;
     font-weight: 400;
  }
- .picture{
+ .image-container{
    text-align: center;
+   image-orientation: center;
+   
  }
 
  .section{
@@ -34,5 +36,17 @@ h1{background-color:#76323f;
  font-size: 16px;
  font-weight:900;
  color:#d7cec7
+ 
 
+ }
+ .UpdateList{
+ color:#ff3b3f;
+ font-weight:bold
+ }
+ .NewUpdates{
+ color:darkslateblue
+
+ }
+ .Update62{
+   color:darkred
  }
