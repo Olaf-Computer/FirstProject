@@ -13,8 +13,8 @@ h1{background-color:#76323f;
  }
 
  .section{
- color:khaki;
- font:papyrus;
+ color:firebrick;
+ font-family:papyrus;
  visibility: 2px;
  }
  p{
@@ -27,15 +27,15 @@ h1{background-color:#76323f;
     font-family:"Fauna One",serif;
  }
  li{
- font-family:"Fauna One" serif;
+ font-family:"Fauna One", serif;
  font-size: 2rem;
  color:#b82601
  }
  a{
- font-family:"Playfair Display", serif;
+ font-family:"Fauna One", serif;
  font-size: 16px;
  font-weight:900;
- color:#ff3b3f
+ color:tan
  
 
  }
