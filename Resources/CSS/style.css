@@ -44,9 +44,13 @@ h1{background-color:#76323f;
  font-weight:bold
  }
  .NewUpdates{
- color:darkslateblue
+ color:darkslateblue;
 
  }
  .Update62{
-   color:darkred
+   color:darkred;
+ }
+ .Video{
+  image-orientation: center;
+  text-align: center;
  }
