@@ -35,7 +35,11 @@ h1{background-color:#76323f;
  font-family:"Fauna One", serif;
  font-size: 16px;
  font-weight:900;
- color:tan
+ color:tan;
+ padding: 5px;
+  text-decoration: none;
+  background-color: #0d2934;
+
  
 
  }
