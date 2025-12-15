@@ -36,13 +36,16 @@ h1{background-color:#76323f;
  font-size: 16px;
  font-weight:900;
  color:tan;
- padding: 5px;
+ padding: 10px;
   text-decoration: none;
   background-color: #0d2934;
 
  
 
- }
+ } a:hover{
+  background-color: darkcyan;
+  color: white;
+  }
  .UpdateList{
  color:#ff3b3f;
  font-weight:bold
