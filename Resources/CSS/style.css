@@ -38,13 +38,15 @@ h1{background-color:#76323f;
  color:tan;
  padding: 10px;
   text-decoration: none;
-  background-color: #0d2934;
-
- 
-
- } a:hover{
-  background-color: darkcyan;
+  background-color: #f7ede2 ;
+  transition-duration: 0.4s;
+  border: #f7ede2 solid 2px;
+  border-radius: 2px;
+ }
+ a:hover{
+  background-color: #f4d35e;
   color: white;
+  border : white solid 2px;
   }
  .UpdateList{
  color:#ff3b3f;
