@@ -63,10 +63,4 @@ h1{background-color:#76323f;
   image-orientation: center;
   text-align: center;
  }
- ol li{
-  list-style-type: decimal;
- }
- ul li{
-  list-style-type: disc;
-  list-style-image:url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdxcHZhdmd6dXFsYzY1ZDgwMXE4N3BlaWRnaDRiejVrbzFhOWc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqI9aaw8dtoYM/giphy.gif);
- }
+ 
