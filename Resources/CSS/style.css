@@ -36,12 +36,13 @@ h1{background-color:#76323f;
  font-size: 16px;
  font-weight:900;
  color:tan;
- padding: 10px;
+ padding: 5px;
   text-decoration: none;
   background-color: #f7ede2;
   transition-duration: 0.4s;
   border: #df9a50 outset 5px;
-  border-radius: 10px;
+  border-radius: 50%;
+  margin:auto;
  }
  a:hover{
   background-color: #f4d35e;
