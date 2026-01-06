@@ -40,13 +40,12 @@ h1{background-color:#76323f;
   text-decoration: none;
   background-color: #f7ede2 ;
   transition-duration: 0.4s;
-  border: #f7ede2 solid 2px;
-  border-radius: 2px;
+  border: #df9a50 outset 5px;
+  border-radius: 10px;
  }
  a:hover{
   background-color: #f4d35e;
-  color: white;
-  border : white solid 2px;
+  border : #df9a50 outset 5px;
   }
  .UpdateList{
  color:#ff3b3f;
