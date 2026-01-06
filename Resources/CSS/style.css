@@ -63,3 +63,7 @@ h1{background-color:#76323f;
   image-orientation: center;
   text-align: center;
  }
+ ol li{
+  list-style-type: decimal;
+  padding: 5px
+ }
