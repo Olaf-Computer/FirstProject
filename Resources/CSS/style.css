@@ -38,11 +38,11 @@ h1{background-color:#76323f;
  color:tan;
  padding: 5px;
   text-decoration: none;
-  background-color: #f7ede2;
+  background-color: #f1f1f1;
   transition-duration: 0.4s;
   border: #df9a50 outset 5px;
-  border-radius: 10px;
-  margin:auto;
+  border-radius: 5px;
+  margin:left;
  }
  a:hover{
   background-color: #f4d35e;
@@ -65,7 +65,6 @@ h1{background-color:#76323f;
  }
  ol li{
   list-style-type: decimal;
-  padding: 5px
  }
  ul li{
   list-style-type: disc;
